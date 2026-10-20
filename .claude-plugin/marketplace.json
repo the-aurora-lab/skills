@@ -1,0 +1,18 @@
+{
+  "name": "aurora-lab-skills",
+  "description": "Free agent skills for researchers from Aurora Lab: test-read a draft with blind reader personas, and turn research code into a citable Python package.",
+  "owner": {
+    "name": "Aurora Lab",
+    "email": "auroralab.skills@gmail.com",
+    "url": "https://the-aurora-lab.github.io"
+  },
+  "plugins": [
+    {
+      "name": "aurora-lab",
+      "source": ".",
+      "description": "Two free research skills: test-readers (fresh-eyes feedback on a draft before you send it) and py-lib (citable Python packages from research code).",
+      "category": "research",
+      "tags": ["research", "academic", "writing", "python", "citation", "reproducibility"]
+    }
+  ]
+}

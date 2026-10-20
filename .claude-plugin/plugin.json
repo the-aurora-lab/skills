@@ -1,0 +1,18 @@
+{
+  "name": "aurora-lab",
+  "displayName": "Aurora Lab",
+  "version": "1.0.0",
+  "description": "Free research skills from Aurora Lab: Test Readers (blind reader personas test-read a draft and return a severity-ranked report with a fix for every issue) and Citable Python Packages (turn research scripts into an installable, citable Python package with CITATION.cff and a lock file).",
+  "author": {
+    "name": "Aurora Lab",
+    "email": "auroralab.skills@gmail.com",
+    "url": "https://the-aurora-lab.github.io"
+  },
+  "homepage": "https://the-aurora-lab.github.io",
+  "repository": "https://github.com/the-aurora-lab/skills",
+  "license": "MIT",
+  "keywords": ["research", "academic", "writing", "feedback", "peer-review", "python", "packaging", "citation", "reproducibility", "research-software"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://the-aurora-lab.github.io/#skills",
+  "supportUrl": "https://github.com/the-aurora-lab/skills/issues"
+}
