@@ -103,8 +103,10 @@ Neither skill collects or sends any data.
 
 ## More Aurora Lab skills
 
-The paid skills below are sold on [Agensi](https://www.agensi.io/creators/aurora-lab). They are not
-part of this repository; each has a public documentation page.
+The paid skills below are sold on [Agensi](https://www.agensi.io/creators/aurora-lab), and the four
+bundles are also available as direct zip downloads on [Gumroad](https://theauroralab.gumroad.com). They are
+not part of this repository; each has a public documentation page. Updates and new skills:
+[@theauroralab on X](https://x.com/theauroralab).
 
 | Skill | What it does | Price | Docs | Get it |
 |---|---|---|---|---|
@@ -128,10 +130,10 @@ part of this repository; each has a public documentation page.
 
 | Bundle | Skills | Price | Get it |
 |---|---|---|---|
-| Publication-Ready Figures & Tables | Paper Figures, Figure Editor, Figure Audit, Table Design | $24 | [Agensi](https://www.agensi.io/bundles/publication-ready-figures-tables) |
-| Research Code, Ready to Share | Research Software, Instructions Writer (pairs with the free Citable Python Packages) | $13 | [Agensi](https://www.agensi.io/bundles/research-code-ready-to-share) |
-| Submission-Ready Manuscript | Claim Check, Scientific Voice, Journal House Style (pairs with the free Test Readers) | $27 | [Agensi](https://www.agensi.io/bundles/submission-ready-manuscript) |
-| Talks & Posters: Present Your Research | Slide Architect, Talk Coach, Q&A Prep, Poster Layout | $26 | [Agensi](https://www.agensi.io/bundles/talks-posters-present-your-research) |
+| Publication-Ready Figures & Tables | Paper Figures, Figure Editor, Figure Audit, Table Design | $24 | [Agensi](https://www.agensi.io/bundles/publication-ready-figures-tables) · [Gumroad](https://theauroralab.gumroad.com/l/figures-tables) |
+| Research Code, Ready to Share | Research Software, Instructions Writer (pairs with the free Citable Python Packages) | $13 | [Agensi](https://www.agensi.io/bundles/research-code-ready-to-share) · [Gumroad](https://theauroralab.gumroad.com/l/research-code) |
+| Submission-Ready Manuscript | Claim Check, Scientific Voice, Journal House Style (pairs with the free Test Readers) | $27 | [Agensi](https://www.agensi.io/bundles/submission-ready-manuscript) · [Gumroad](https://theauroralab.gumroad.com/l/submission-manuscript) |
+| Talks & Posters: Present Your Research | Slide Architect, Talk Coach, Q&A Prep, Poster Layout | $26 | [Agensi](https://www.agensi.io/bundles/talks-posters-present-your-research) · [Gumroad](https://theauroralab.gumroad.com/l/talks-posters) |
 
 All skills, free and paid, share one optional convention: a `research/` folder in your project
 (`research/paper/`, `research/reviews/`, `research/refs.bib` and so on), so they can pick up each
